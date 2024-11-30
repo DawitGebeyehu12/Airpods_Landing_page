@@ -23,16 +23,12 @@ Installation
 1. Clone this repository or copy the component files into your project:
 
          git clone https://github.com/DawitGebeyehu12/Airpods_Landing_page.git
-
-2. Navigate to the project directory:
-
-       cd my-app
    
-3. Install the dependencies:
+2. Install the dependencies:
 
        npm install
    
-5. Start the app:
+3. Start the app:
 
        npm start
 
