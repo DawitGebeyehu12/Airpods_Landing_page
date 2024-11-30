@@ -35,3 +35,26 @@ Installation
 5. Start the app:
 
        npm start
+
+
+Component Structure
+
+  ConvenienceSection.jsx
+
+   - Main React component
+   
+   - Responsive layout structure
+   
+   - Image placeholder integration
+   
+   - Semantic HTML elements
+
+ ConvenienceSection.css
+
+- Modular CSS styling
+
+- Media queries for responsive design
+
+- Custom properties for consistent styling
+
+- Optimized for performance
