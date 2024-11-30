@@ -22,4 +22,5 @@ Installation
 
 1. Clone this repository or copy the component files into your project:
 
-         git clone 
+         git clone https://github.com/DawitGebeyehu12/Airpods_Landing_page.git
+2. 
