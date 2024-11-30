@@ -58,3 +58,9 @@ Component Structure
 - Custom properties for consistent styling
 
 - Optimized for performance
+
+  Contributing
+
+    Feel free to submit issues and enhancement requests!
+
+Author  Dawit Gebeyehu
